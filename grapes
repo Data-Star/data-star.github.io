@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>hello, world</h1>
+    
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora architecto a, voluptates, ipsum saepe, corrupti enim accusamus, fugit eius aliquid adipisci quis est nisi. Reprehenderit impedit itaque nobis voluptate iste.</p>
+  
+    <p>today we are learning how to create simple website :) </p>
+
+    <!-- insert an image here -->
+ 
+    <img src="grapes.jpg" width="1000px">
+
+    <h3>My Shopping List</h3>
+    <ul>
+
+        <li>Grapes</li>
+
+
+    </ul>
+
+
+
+
+
+
+</body>
+</html>
