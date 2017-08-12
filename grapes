@@ -7,28 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hello, world</h1>
-    
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora architecto a, voluptates, ipsum saepe, corrupti enim accusamus, fugit eius aliquid adipisci quis est nisi. Reprehenderit impedit itaque nobis voluptate iste.</p>
-  
-    <p>today we are learning how to create simple website :) </p>
 
     <!-- insert an image here -->
  
     <img src="grapes.jpg" width="1000px">
 
-    <h3>My Shopping List</h3>
-    <ul>
-
-        <li>Grapes</li>
-
-
-    </ul>
-
-
-
-
-
-
+    <p> Grapes</p>
 </body>
 </html>
